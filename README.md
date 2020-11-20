@@ -6,4 +6,4 @@ I work in Appsec @Mercadolibre. I like to hack stuff.
 - 🌱 I’m currently learning more about: everything pentesting
 - ⚡ Fun fact: I don't know what to add here
 - 🎯 2020 Goals: OSCP 
-- 📚 I'm currently reading: "Red Team Development and Operations: A Practical Guide"
+- 📚 I'm currently reading: "Threat Modeling", by Matthew J. Coles & Izar Tarandach
